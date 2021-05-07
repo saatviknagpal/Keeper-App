@@ -1,3 +1,3 @@
 # Keeper-App
-## This is an app made from the react challenge in Udemy Angela Yu Web Development course.
+## This is a notes keeper app, where you can add your notes dynamically by just inserting them in notes.js.
 
